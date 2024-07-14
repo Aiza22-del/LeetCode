@@ -6,3 +6,4 @@
 5) Linked List -> Remove Nth Node From End of List
 6) Binary Tree General -> Maximum Depth of Binary Tree
 7) Linked List -> Copy List with Random Pointer
+8) Binary Search Tree -> Kth Smallest Element in a BST
