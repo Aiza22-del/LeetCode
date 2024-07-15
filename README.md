@@ -7,3 +7,6 @@
 6) Binary Tree General -> Maximum Depth of Binary Tree
 7) Linked List -> Copy List with Random Pointer
 8) Binary Search Tree -> Kth Smallest Element in a BST
+9) Linked List -> Merge Two Sorted Lists
+10) Stack -> Valid Parentheses
+11) Two Pointers -> 3Sum
