@@ -9,5 +9,6 @@
 8) Binary Search Tree -> Kth Smallest Element in a BST
 9) Linked List -> Merge Two Sorted Lists
 10) Stack -> Valid Parentheses
-11) Two Pointers -> 3Sum
-12) Two Pointers -> Valid Palindrome
+11) Two Pointers -> Two Sum II - Input Array Is Sorted
+12) Two Pointers -> 3Sum
+13) Two Pointers -> Valid Palindrome
