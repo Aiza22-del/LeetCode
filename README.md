@@ -10,3 +10,4 @@
 9) Linked List -> Merge Two Sorted Lists
 10) Stack -> Valid Parentheses
 11) Two Pointers -> 3Sum
+12) Two Pointers -> Valid Palindrome
