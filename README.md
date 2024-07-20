@@ -16,3 +16,4 @@
 15) Binary Tree General -> Lowest Common Ancestor of a Binary Tree
 16) Array / String -> Rotate Array
 17) Stack -> Evaluate Reverse Polish Notation
+18) Linked List -> Rotate List
