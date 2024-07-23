@@ -19,3 +19,7 @@
 18) Linked List -> Rotate List
 19) Linked List -> Partition List
 20) Stack -> Simplify Path
+21) Binary Tree General -> Same Tree
+22) Binary Tree General -> Invert Binary Tree
+23) Binary Tree General -> Sum Root to Leaf Numbers
+24) Binary Tree BFS -> Binary Tree Level Order Traversal
