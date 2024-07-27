@@ -17,10 +17,11 @@
 16) Array / String -> Rotate Array
 17) Stack -> Evaluate Reverse Polish Notation
 18) Linked List -> Rotate List
-19) Linked List -> Partition List
-20) Stack -> Simplify Path
-21) Binary Tree General -> Same Tree
-22) Binary Tree General -> Invert Binary Tree
-23) Binary Tree General -> Sum Root to Leaf Numbers
-24) Binary Tree BFS -> Binary Tree Level Order Traversal
-25) Binary Tree BFS -> Binary Tree Right Side View
+19) Stack -> Basic Calculator
+20) Linked List -> Partition List
+21) Stack -> Simplify Path
+22) Binary Tree General -> Same Tree
+23) Binary Tree General -> Invert Binary Tree
+24) Binary Tree General -> Sum Root to Leaf Numbers
+25) Binary Tree BFS -> Binary Tree Level Order Traversal
+26) Binary Tree BFS -> Binary Tree Right Side View
