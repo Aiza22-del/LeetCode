@@ -27,5 +27,5 @@
 26) Stack -> Basic Calculator
 27) Binary Tree General -> Count Complete Tree Nodes
 28) Binary Search Tree -> Validate Binary Search Tree
-29) Binary Tree General -> Construct Binary Tree from Preorder and Inorder Traversal
-30) Binary Tree General -> Construct Binary Tree from Inorder and Postorder Traversal
+29) Divide & Conquer -> Sort List
+30) Binary Tree BFS -> Binary Tree Zigzag Level Order Traversal
