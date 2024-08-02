@@ -29,3 +29,5 @@
 28) Binary Search Tree -> Validate Binary Search Tree
 29) Divide & Conquer -> Sort List
 30) Binary Tree BFS -> Binary Tree Zigzag Level Order Traversal
+31) Binary Search -> Find Peak Element
+32) Binary Search -> Find Minimum in Rotated Sorted Array
