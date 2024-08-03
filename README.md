@@ -31,3 +31,5 @@
 30) Binary Tree BFS -> Binary Tree Zigzag Level Order Traversal
 31) Binary Search -> Find Peak Element
 32) Binary Search -> Find Minimum in Rotated Sorted Array
+33) Binary Search -> Search Insert Position
+34) Binary Search -> Search in Rotated Sorted Array
