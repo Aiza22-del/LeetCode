@@ -33,3 +33,4 @@
 32) Binary Search -> Find Minimum in Rotated Sorted Array
 33) Binary Search -> Search Insert Position
 34) Binary Search -> Search in Rotated Sorted Array
+35) Binary Search -> Find First and Last Position of Element in Sorted Array
