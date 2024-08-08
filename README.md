@@ -35,3 +35,9 @@
 34) Binary Search -> Search in Rotated Sorted Array
 35) Binary Search -> Find First and Last Position of Element in Sorted Array
 36) Binary Search -> Search a 2D Matrix
+37) Binary Tree General -> Path Sum
+38) Binary Tree General -> Symmetric Tree
+39) Binary Tree BFS -> Average of Levels in Binary Tree
+40) Binary Search Tree -> Minimum Absolute Difference in BST
+41) Binary Search -> Median of Two Sorted Arrays
+42) 
