@@ -40,4 +40,6 @@
 39) Binary Tree BFS -> Average of Levels in Binary Tree
 40) Binary Search Tree -> Minimum Absolute Difference in BST
 41) Binary Search -> Median of Two Sorted Arrays
-42) 
+42) Two Pointers -> Is Subsequence
+43) Two Pointers -> Container With Most Water
+44) 
