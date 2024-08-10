@@ -42,4 +42,6 @@
 41) Binary Search -> Median of Two Sorted Arrays
 42) Two Pointers -> Is Subsequence
 43) Two Pointers -> Container With Most Water
-44) 
+44) Linked List -> LRU Cache
+45) Linked List -> Reverse Linked List II
+46) Linked List -> 
