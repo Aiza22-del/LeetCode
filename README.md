@@ -46,8 +46,8 @@
 45) Linked List -> Reverse Linked List II
 46) Linked List -> Remove Duplicates from Sorted List II
 47) Linked List -> Reverse Nodes in k-Group
-48) Binary Tree General ->
-49) Binary Tree General ->
+48) Binary Tree General -> Flatten Binary Tree to Linked List
+49) Binary Tree General -> Binary Search Tree Iterator
 50) Binary Tree General ->
 51) Binary Tree General ->
 52) Binary Tree General ->
