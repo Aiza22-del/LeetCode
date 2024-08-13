@@ -48,7 +48,7 @@
 47) Linked List -> Reverse Nodes in k-Group
 48) Binary Tree General -> Flatten Binary Tree to Linked List
 49) Binary Tree General -> Binary Search Tree Iterator
-50) Binary Tree General ->
+50) Binary Tree General -> Populating Next Right Pointers in Each Node II
 51) Binary Tree General ->
 52) Binary Tree General ->
 53) Binary Tree General -> 
